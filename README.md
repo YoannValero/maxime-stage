@@ -37,7 +37,7 @@ Page metiers.html :
 
 ## Éditeur de code 
 
-- Utiliser Visual studio Code
+- Installer Visual studio Code : https://code.visualstudio.com/
 
 Après avoir créer les dossiers et fichiers, il suffira d'ouvrir le dossier dans Visual Studio code.
 
