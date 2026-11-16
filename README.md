@@ -18,6 +18,8 @@ Ces cours permettront d'acquérir les bases du HTML/CSS :
 
 Le site doit être construit de la façon suivante : 
 
+- Création d'un dossier pour le projet global contenant la structure suivante : 
+
 ![structure_site](https://github.com/YoannValero/maxime-stage/blob/main/structure%20site.png)
 
 - Le dossier files devra contenir les fiches des métiers observés.
