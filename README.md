@@ -44,7 +44,7 @@ Page metiers.html :
 
 - Installer Visual studio Code : https://code.visualstudio.com/
 
-Après avoir créer les dossiers et fichiers, il suffira d'ouvrir le dossier dans Visual Studio code.
+Après avoir créer les dossiers et fichiers, il suffira d'ouvrir le dossier du projet global dans Visual Studio code.
 
 
 ### Exécution du code dans Visual Studio Code
