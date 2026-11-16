@@ -13,7 +13,7 @@
 
 Le site doit etre construit de la façon suivante avec les 3 fichiers et 2 dossiers suivants :
 
-![structure_site](https://github.com/YoannValero/jeremy-stage/blob/main/structure%20site.png)
+![structure_site](https://github.com/YoannValero/maxime-stage/blob/main/structure%20site.png)
 
 - Le dossier files devra contenir les fiches des métiers observés.
 - Le dossier img devra contenir les images du site.
@@ -27,11 +27,11 @@ Le site doit etre construit de la façon suivante avec les 3 fichiers et 2 dossi
 Les éléments devront être présentés comme ceci:
 
 Page index.html :
-![Accueil](https://github.com/YoannValero/jeremy-stage/blob/main/Accueil.png)
+![Accueil](https://github.com/YoannValero/maxime-stage/blob/main/Accueil.png)
 
 
 Page metiers.html :
-![Metiers](https://github.com/YoannValero/jeremy-stage/blob/main/Metiers.png)
+![Metiers](https://github.com/YoannValero/maxime-stage/blob/main/Metiers.png)
 
 
 
@@ -45,7 +45,7 @@ Après avoir créer les dossiers et fichiers, il suffira d'ouvrir le dossier dan
 ### Exécution du code dans Visual Studio Code
 
 Ouvrir le dossier puis lancer le serveur de développement
-![GoLive](https://github.com/YoannValero/jeremy-stage/blob/main/golive.png)
+![GoLive](https://github.com/YoannValero/maxime/blob/main/golive.png)
 
 Chaque modification de code dans les fichiers permettra de visualiser les modifications sur la page modifiée depuis le navigateur.
 
