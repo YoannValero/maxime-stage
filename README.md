@@ -8,6 +8,11 @@
 - Présenter brièvement les différents métiers observés
 - Initiation à HTML et CSS
 
+## Cours associés
+
+Ces cours permettront d'acquérir les bases du HTML/CSS : 
+- https://openclassrooms.com/fr/courses/1946386-comprendre-le-web
+- https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3
 
 ## Structure du site
 
