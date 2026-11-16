@@ -44,7 +44,8 @@ Après avoir créer les dossiers et fichiers, il suffira d'ouvrir le dossier dan
 
 ### Exécution du code dans Visual Studio Code
 
-- Installer l'extension 
+- Installer l'extension Liver server depuis Visual studio Code
+
 ![live_server](https://github.com/YoannValero/maxime-stage/blob/main/live-server.png)
 
 
