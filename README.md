@@ -33,16 +33,20 @@ Page index.html :
 Page metiers.html :
 ![Metiers](https://github.com/YoannValero/maxime-stage/blob/main/Metiers.png)
 
+- Le lien vers la fiche métier doit permettre d'ouvrir la fiche de poste associée
 
+## Éditeur de code 
 
-### Éditeur de code 
-
-- Utiliser Visual studio Code (déjà installé sur le PC)
+- Utiliser Visual studio Code
 
 Après avoir créer les dossiers et fichiers, il suffira d'ouvrir le dossier dans Visual Studio code.
 
 
 ### Exécution du code dans Visual Studio Code
+
+- Installer l'extension 
+![live_server](https://github.com/YoannValero/maxime-stage/blob/main/live-server.png)
+
 
 Ouvrir le dossier puis lancer le serveur de développement
 ![GoLive](https://github.com/YoannValero/maxime/blob/main/golive.png)
