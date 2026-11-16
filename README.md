@@ -44,12 +44,13 @@ Après avoir créer les dossiers et fichiers, il suffira d'ouvrir le dossier dan
 
 ### Exécution du code dans Visual Studio Code
 
-- Installer l'extension Liver server depuis Visual studio Code
+- Installer l'extension Liver server depuis Visual studio Code : 
 
 ![live_server](https://github.com/YoannValero/maxime-stage/blob/main/live-server.png)
 
 
-Ouvrir le dossier puis lancer le serveur de développement
+Ouvrir le dossier puis lancer le serveur de développement :
+
 ![GoLive](https://github.com/YoannValero/maxime-stage/blob/main/golive.png)
 
 Chaque modification de code dans les fichiers permettra de visualiser les modifications sur la page modifiée depuis le navigateur.
