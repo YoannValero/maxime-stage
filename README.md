@@ -33,7 +33,7 @@ Page index.html :
 Page metiers.html :
 ![Metiers](https://github.com/YoannValero/maxime-stage/blob/main/Metiers.png)
 
-- Le lien vers la fiche métier doit permettre d'ouvrir la fiche de poste associée
+- Le lien vers la fiche métier doit permettre d'ouvrir la fiche de poste associée. Les fiches de poste devront être placées dans le dossier "files" du projet.
 
 ## Éditeur de code 
 
