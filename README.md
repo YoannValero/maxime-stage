@@ -50,7 +50,7 @@ Après avoir créer les dossiers et fichiers, il suffira d'ouvrir le dossier dan
 
 
 Ouvrir le dossier puis lancer le serveur de développement
-![GoLive](https://github.com/YoannValero/maxime/blob/main/golive.png)
+![GoLive](https://github.com/YoannValero/maxime-stage/blob/main/golive.png)
 
 Chaque modification de code dans les fichiers permettra de visualiser les modifications sur la page modifiée depuis le navigateur.
 
