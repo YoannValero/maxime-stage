@@ -16,7 +16,7 @@ Ces cours permettront d'acquérir les bases du HTML/CSS :
 
 ## Structure du site
 
-Le site doit etre construit de la façon suivante : 
+Le site doit être construit de la façon suivante : 
 
 ![structure_site](https://github.com/YoannValero/maxime-stage/blob/main/structure%20site.png)
 
