@@ -1,6 +1,6 @@
-# Stage Jérémy
+# Stage Maxime
 
-## Jeremy's challenge
+## Maxime's challenge
 
 ## Objectifs :
 
